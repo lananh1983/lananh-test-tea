@@ -1,0 +1,17 @@
+{
+  "name": "lananh-test-tea",
+  "version": "1.0.0",
+  "description": "Have a beautiful day Tea Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lananh1983/lananh1983.git"
+  },
+  "homepage": "https://github.com/lananh1983/lananh1983",
+  "keywords": [],
+  "author": "lananh1983",
+  "license": "ISC"
+}
