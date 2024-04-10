@@ -1,6 +1,6 @@
 {
   "name": "lananh-test-tea",
-  "version": "1.0.1",
+  "version": "1.1.2",
   "description": "Have a beautiful day Tea Project",
   "main": "app.js",
   "scripts": {
@@ -13,5 +13,8 @@
   "homepage": "https://github.com/lananh1983/lananh-test-tea",
   "keywords": [],
   "author": "lananh1983",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  }
 }
